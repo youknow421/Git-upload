@@ -88,7 +88,7 @@ Full UX/UI system  |	✅ Done |	Inline styles - no proper design system/componen
 ---
 
 # Current state
-Project is fully done.
+Project is fully done. Make sure to install the remaining dependancies with "pnpm install" before using "pnpm dev:all" to run the project.
 
 I had to change the github page because the original project would refuse to get updated onto the site. 
 
