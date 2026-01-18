@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Project MVP Mobile",
+    "slug": "project-mvp-mobile",
+    "version": "0.1.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios","android","web"],
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}

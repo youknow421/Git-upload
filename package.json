@@ -1,0 +1,25 @@
+{
+  "name": "project-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "mobile",
+    "packages/*",
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev": "pnpm --filter @project-mvp/web dev",
+    "dev:server": "pnpm --filter @project-mvp/server dev",
+    "dev:all": "concurrently \"pnpm dev\" \"pnpm dev:server\"",
+    "build": "pnpm --filter @project-mvp/web build",
+    "build:server": "pnpm --filter @project-mvp/server build",
+    "start": "pnpm --filter @project-mvp/web start",
+    "bootstrap": "pnpm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0",
+    "typescript": "^5.5.0",
+    "ts-node": "^10.9.1"
+  }
+}

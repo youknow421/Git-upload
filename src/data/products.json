@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "slug": "classic-sneakers",
+    "name": "Classic Sneakers",
+    "price": 69.99,
+    "description": "Comfortable everyday sneakers with a timeless silhouette.",
+    "image": "https://picsum.photos/seed/sneakers/600/400",
+    "stock": 12,
+    "category": "fashion"
+  },
+  {
+    "id": "2",
+    "slug": "slim-hoodie",
+    "name": "Slim Hoodie",
+    "price": 49.99,
+    "description": "A soft, slim-fit hoodie for cooler days.",
+    "image": "https://picsum.photos/seed/hoodie/600/400",
+    "stock": 8,
+    "category": "fashion"
+  },
+  {
+    "id": "3",
+    "slug": "travel-backpack",
+    "name": "Travel Backpack",
+    "price": 89.99,
+    "description": "Durable backpack with multiple compartments and laptop sleeve.",
+    "image": "https://picsum.photos/seed/backpack/600/400",
+    "stock": 5,
+    "category": "travel"
+  },
+  {
+    "id": "4",
+    "slug": "minimal-watch",
+    "name": "Minimal Watch",
+    "price": 129.99,
+    "description": "Elegant, minimal watch with a leather strap.",
+    "image": "https://picsum.photos/seed/watch/600/400",
+    "stock": 3,
+    "category": "accessories"
+  },
+  {
+    "id": "5",
+    "slug": "sunglasses-aviator",
+    "name": "Aviator Sunglasses",
+    "price": 29.99,
+    "description": "Classic aviators offering UV protection and style.",
+    "image": "https://picsum.photos/seed/sunglasses/600/400",
+    "stock": 20,
+    "category": "accessories"
+  },
+  {
+    "id": "6",
+    "slug": "wireless-earbuds",
+    "name": "Wireless Earbuds",
+    "price": 59.99,
+    "description": "Noise-isolating earbuds with long battery life.",
+    "image": "https://picsum.photos/seed/earbuds/600/400",
+    "stock": 15,
+    "category": "electronics"
+  },
+  {
+    "id": "7",
+    "slug": "ceramic-mug",
+    "name": "Ceramic Mug",
+    "price": 12.99,
+    "description": "A simple ceramic mug for everyday use.",
+    "image": "https://picsum.photos/seed/mug/600/400",
+    "stock": 30,
+    "category": "home"
+  },
+  {
+    "id": "8",
+    "slug": "oak-side-table",
+    "name": "Oak Side Table",
+    "price": 199.99,
+    "description": "Solid oak side table finished with natural oil.",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "stock": 4,
+    "category": "furniture"
+  },
+  {
+    "id": "9",
+    "slug": "portable-charger",
+    "name": "Portable Charger",
+    "price": 39.99,
+    "description": "High-capacity USB-C power bank for travel.",
+    "image": "https://picsum.photos/seed/charger/600/400",
+    "stock": 18,
+    "category": "electronics"
+  },
+  {
+    "id": "10",
+    "slug": "travel-adapter-kit",
+    "name": "Travel Adapter Kit",
+    "price": 24.99,
+    "description": "Universal adapter kit for international travel.",
+    "image": "https://picsum.photos/seed/adapter/600/400",
+    "stock": 25,
+    "category": "travel"
+  }
+]

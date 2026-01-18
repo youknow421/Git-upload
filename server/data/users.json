@@ -1,0 +1,30 @@
+[
+  {
+    "id": "usr_1768447410169_e90e5f8e",
+    "email": "admin@example.com",
+    "passwordHash": "$2b$12$0U67nBsCVDWkeCW6/i/AmeP21DzspEDBYpyQE.o4fuZn2zGWjS2FO",
+    "name": "Admin",
+    "role": "admin",
+    "emailVerified": true,
+    "verificationToken": null,
+    "verificationTokenExpiry": null,
+    "resetToken": null,
+    "resetTokenExpiry": null,
+    "createdAt": "2026-01-15T03:23:30.169Z",
+    "updatedAt": "2026-01-15T03:23:30.169Z"
+  },
+  {
+    "id": "usr_1768447641069_0641fb01",
+    "email": "journal@email.com",
+    "passwordHash": "$2b$12$HG9SmUrVtzVQimTdkboCweORnUYa.U0jx5I8EyG//FyXYvSOsET1O",
+    "name": "John doe",
+    "role": "user",
+    "emailVerified": false,
+    "verificationToken": "vrf_9928e768-022f-4d25-9d33-1172c7932c08",
+    "verificationTokenExpiry": "2026-01-16T03:27:21.069Z",
+    "resetToken": null,
+    "resetTokenExpiry": null,
+    "createdAt": "2026-01-15T03:27:21.069Z",
+    "updatedAt": "2026-01-15T03:27:21.069Z"
+  }
+]
